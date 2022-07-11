@@ -19,8 +19,11 @@
 
 ### Contact Me
 
- <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/discord-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> Lobanova Maria #7247 </p> </div>
+<div>
+ <div style="display:flex; alight-item:start; flex-deration: row;" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/discord-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 25px"> Lobanova Maria #7247 </p> </div>
 
- <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/telegram-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> <a href="https://t.me/LobanovaMary" style="text-decoration:none; color: inherit;"> https://t.me/LobanovaMary </a></p> </div>
+ <div style="display:flex; alight-item:start; flex-deration: row;" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/telegram-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 25px"> <a href="https://t.me/LobanovaMary" style="text-decoration:none; color: inherit;"> https://t.me/LobanovaMary </a></p> </div>
 
- <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/mail-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> <a href="mailto: lobanovama1@gmail.com" style="text-decoration:none; color: inherit;"> lobanovama1@gmail.com </a></p> </div>
+ <div style="display:flex; alight-item:start; flex-deration: row;" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/mail-logo.png" style="width:35px;height:24px;"> <p style="padding-left: 15px"> <a href="mailto: lobanovama1@gmail.com" style="text-decoration:none; color: inherit;"> lobanovama1@gmail.com </a></p> </div>
+
+</div>

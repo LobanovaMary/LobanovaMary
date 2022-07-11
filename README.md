@@ -19,6 +19,8 @@
 
 ### Contact Me
 
-[![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=E99EFF&?style=for-the-badge&logo=Discord)](https://discordapp.com/users/951121318772875285)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=E99EFF&?style=for-the-badge&logo=telegram)](https://t.me/LobanovaMary)
-[![mail](https://img.shields.io/static/v1?label=&message=e-mail&color=E99EFF&?style=for-the-badge&logo=gmail)](lobanovama1@gmail.com)
+ <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/discord-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> Lobanova Maria #7247 </p> </div>
+
+ <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/telegram-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> <a href="https://t.me/LobanovaMary" style="text-decoration:none; color: inherit;"> https://t.me/LobanovaMary </a></p> </div>
+
+ <div style="display:flex" ><img src="https://github.com/LobanovaMary/LobanovaMary/blob/main/assets/mail-logo.png" style="width:25px;height:25px;"> <p style="padding-left: 15px"> <a href="mailto: lobanovama1@gmail.com" style="text-decoration:none; color: inherit;"> lobanovama1@gmail.com </a></p> </div>
